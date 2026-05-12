@@ -1,2 +1,2 @@
-# gearshift-app
-App para taller mecanico 
+# GearShift App
+Proyecto de SaaS para gestión mecánica y optimización.
